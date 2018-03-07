@@ -11,6 +11,6 @@
     "ytdl-core": "0.18.1",
     "youtube-search": "1.0.10",
     "youtube-playlist-info": "0.1.0",
-    "ffempg": "0.0.4"
+    "ffmpeg": "0.0.4"
   }
 }
