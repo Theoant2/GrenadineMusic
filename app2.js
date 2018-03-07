@@ -258,4 +258,4 @@ bot.on('message', message => {
 
 
 
-bot.login('MzcwNjIyMDQ2MzkwMTkwMDgx.DMpxxA.AKjnWIiK1KgLpEKvlYMGrEZXJEA')
+bot.login(process.env.BOT_TOKEN)
